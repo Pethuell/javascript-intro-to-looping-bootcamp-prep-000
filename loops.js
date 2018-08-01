@@ -5,6 +5,7 @@ function forLoop(aray) {
     } else {
       aray.push("I am ${i} strange loops.");
     }
+    return aray;
   }
 }
 
